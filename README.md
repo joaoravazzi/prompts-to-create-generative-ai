@@ -5,7 +5,7 @@
 # Vídeo: Futuro das IAs Generativas 🎥
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um vídeo mostrando o poder das IAs Generativas. 
 
